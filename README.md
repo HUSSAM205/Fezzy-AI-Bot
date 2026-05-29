@@ -54,9 +54,9 @@ Open:
 http://127.0.0.1:5000
 ```
 
-## Screenshots
+## Screenshot
 
-Coming soon.
+![Fezzy AI](assets/screenshot.png)
 
 ## Author
 
